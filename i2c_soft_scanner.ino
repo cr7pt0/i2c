@@ -1,9 +1,9 @@
 // Scan I2C bus for device responses
 
 #define SDA_PORT PORTD
-#define SDA_PIN 3
+#define SDA_PIN 2
 #define SCL_PORT PORTD
-#define SCL_PIN 5
+#define SCL_PIN 3
 #define I2C_TIMEOUT 100
 #define I2C_NOINTERRUPT 0
 #define I2C_SLOWMODE 1
